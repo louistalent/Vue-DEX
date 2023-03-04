@@ -1,0 +1,5 @@
+dist/
+build/
+public/data/tokenlists.json
+public/data/tokenlists/*.json
+.eslintrc-auto-import.json
